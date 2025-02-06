@@ -5,3 +5,8 @@ Answer: To be able to manage our different versions of our codebase efficiently.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to quantitative finance to build systematic models to make investment decisions. 
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves version history and rebasing doesn't. 
