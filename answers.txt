@@ -6,7 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to quantitative finance to build systematic models to make investment decisions. 
 
-
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves version history and rebasing doesn't. 
+
+Q4: What are you looking forward to this semester? 
+
+Answer: Learning SQL!
