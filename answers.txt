@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to quantitative finance to build systematic models to make investment decisions. 
